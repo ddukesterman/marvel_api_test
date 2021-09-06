@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_4dp">4dp</dimen>
+
+    <dimen name="creator_spacing">8dp</dimen>
+    <dimen name="creator_text_size">12sp</dimen>
+</resources>

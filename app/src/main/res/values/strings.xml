@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarvelTestApp</string>
+
+    <string name="actionbar_title">Marvel</string>
+    <string name="actionbar_refresh_title">Refresh</string>
+    <string name="creator_title">%1$s:\n%2$s</string>
+</resources>
