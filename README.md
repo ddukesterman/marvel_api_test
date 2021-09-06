@@ -15,7 +15,7 @@ Simple application to display a Comic from the API at developer.marvel.com. It h
 - Hilt/Dagger for DI
 - Timber for logging 
 
-## Updating API key
+## Updating developer keys
 To add your own API key, modify the file `MarvelConfigService` located at `com.trenton.marvel.config.MarvelConfigService`
 
 ## UI Unit Testing
