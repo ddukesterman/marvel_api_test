@@ -16,7 +16,7 @@ Simple application to display a Comic from the API at developer.marvel.com. It h
 - Timber for logging 
 
 ## Updating developer keys
-To add your own API key, modify the file `MarvelConfigService` located at `com.trenton.marvel.config.MarvelConfigService`
+To add your own developer keys, modify the file `MarvelConfigService` located at `com.trenton.marvel.config.MarvelConfigService`
 
 ## UI Unit Testing
 The test `ComicActivityBehaviorTest` will run through a simple UI test to click the refresh button.
